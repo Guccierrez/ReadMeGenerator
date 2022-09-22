@@ -1,0 +1,23 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "## Description this is so cool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guccierrez/ReadMeGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guccierrez/ReadMeGenerator/issues"
+  },
+  "homepage": "https://github.com/Guccierrez/ReadMeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
