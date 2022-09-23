@@ -1,7 +1,7 @@
 
-# [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) Repo Generator
+# [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) Guccis ReadMe generator
 
-# Table of Contents  
+## Table of Contents  
 * [description](#description)  
 * [installation](#installation) 
 * [usage](#usage)  
@@ -12,28 +12,28 @@
 * [email](#email)  
 
 ## Description
-a repo generator
+with this repo you can seemlessly and effertlessly, create and modify ReadMe's 
 
-## Install
-none
+## Installation
+make sure you doenload NPM(npm init then npm install "package")
 
 ## Usage
-generating repos
+Use this Repo to crank out super easy ReadMe's like a madman!
 
 ## Contributers
-me
+Proud to say I didn't need as much help this week but both teachers(mr.Andrews and Mr.Dane helped)
 
 ## License
 MIT
 
 ## Test
-nah
+none
 
 # Questions
 #### for more information please contact me on github or email
 
 ## Github
-https://github.com/Guccierrez
+https://github.com/Guccierrez/ReadMeGenerator
 
 ## Email
-fabiangutierrez580@gmail.com
+    fabiangutierrez580@gmail.com

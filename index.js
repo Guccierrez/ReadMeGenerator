@@ -39,7 +39,7 @@ let readMeText = (data)=>{
 return`
 # ${generateBadgeForLicense(data.license)} ${data.repoName}
 
-# Table of Contents  
+## Table of Contents  
 * [description](#description)  
 * [installation](#installation) 
 * [usage](#usage)  
@@ -52,7 +52,7 @@ return`
 ## Description
 ${data.description}
 
-## Install
+## Installation
 ${data.installation}
 
 ## Usage
@@ -71,10 +71,10 @@ ${data.testInstructions}
 #### for more information please contact me on github or email
 
 ## Github
-${[data.github]}
+    ${[data.github]}
 
 ## Email
-${[data.email]}
+    ${[data.email]}
 `
 }
 
@@ -120,7 +120,7 @@ const questions = [
     {
         type: 'input',
         name: 'github',
-        message: 'What is your GitHub username?',
+        message: 'What is your GitHub username link?',
         
     },
     {
@@ -141,11 +141,6 @@ inquirer.prompt(questions).then((data)=>{
         
     })
     
-    
-
-
-
-
 })
 
 
