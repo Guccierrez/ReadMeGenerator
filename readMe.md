@@ -12,7 +12,7 @@
 ## Description
 with this repo you can seemlessly and effertlessly, create and modify ReadMe's 
 
-<a href="https://drive.google.com/file/d/1TUrTzxFy68RcgJPS2jFxfmjeLerPNhVd/view" title="RepoVideo"><img src="./RepoGenerator.png" alt="Alternate Text" /></a>
+<a href="https://drive.google.com/file/d/1TUrTzxFy68RcgJPS2jFxfmjeLerPNhVd/view" title="RepoVideo"><img src="./RepoGenerator.png" alt="ReadMe Preview preview" /></a>
 
 
 ## Installation
